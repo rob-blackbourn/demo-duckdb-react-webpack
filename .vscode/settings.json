@@ -1,0 +1,16 @@
+{
+    "[typescriptreact]": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 2,
+        "editor.rulers": [80]
+    },
+    "[typescript]": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 2,
+        "editor.rulers": [80]
+    },
+    "cSpell.words": [
+        "duckdb",
+        "pthread"
+    ]
+}
